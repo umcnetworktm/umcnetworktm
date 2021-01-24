@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**umcnetworktm/umcnetworktm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Soy aficionado en aprender nuevas tecnologías.
+
+
+- 👯 Me encanta colaborar, cuento con conocimiento en lenguajes de programación y desarrollo web...
+
+- 💬 Soy un joven de 20 años, de nacionalidad Costarricense, con un técnico en informática, cuento con conocimiento en desarrollo de sitios web, ademas de lenguajes de programación.
+
+- 😄 Soy aficionado a la tecnología, me dedico en kis tiempos libres a brindar servicios de primera respuesta.
+- ⚡ Me encuentro desarrollando un proyecto personal que consiste en, realizar un prograna para llevar acabo la revisión de unidadess de emergencia. 
+##### Si deseas formar tarde, puedes clonar y contribuir con el proyecto :)
+
+
